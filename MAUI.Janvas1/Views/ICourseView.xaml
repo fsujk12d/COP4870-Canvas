@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI.Janvas1.Views.ICourseView"
+             Title="ICourseView"
+             NavigatedTo="ContentPage_NavigatedTo">
+    <VerticalStackLayout>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="9*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Entry Text="{Binding Query}" Grid.Column="0"/>
+            <Button Text="Search" Clicked="SearchClicked" Grid.Column="1"/>
+        </Grid>
+        <ListView 
+            ItemsSource="{Binding Courses}"
+            SelectedItem="{Binding SelectedCourse}">
+        </ListView>
+        <Button Text="Add Course" Clicked="AddClicked"/>
+        <Button Text="Edit Course" Clicked="EditClicked"/>
+        <Button Text="Remove Course" Clicked="RemoveClicked"/>
+        <Button Text="View Selected Course Info" Clicked="ViewInfoClicked"/>
+        <Button Text="Add Student to Selected" Clicked="AddStuToCourseClicked"/>
+        <Button Text="Add Assignment to Selected" Clicked="AddAssnToCourseClicked"/>
+        <Button Text="Add Module to Selected" Clicked="AddModToCourseClicked"/>
+        <Button Text="Back" Clicked="BackClicked"/>
+    </VerticalStackLayout>
+</ContentPage>
+
+
+
+    

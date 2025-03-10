@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI.Janvas1.Dialogs.SCourseDetails"
+             Title="SCourseDetails"
+             NavigatedTo="ContentPage_NavigatedTo">
+    <VerticalStackLayout>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Text="{Binding CourseName}" Grid.Column="0"/>
+            <Label Text="{Binding CourseCode}" Grid.Column="1"/>
+            <Label Text="{Binding CourseDescription}" Grid.Column="2"/>
+        </Grid>
+        <Label Text="MODULES" HorizontalOptions="Start" VerticalOptions="Center"/>
+        <ListView
+            ItemsSource="{Binding Modules}">
+        </ListView>
+        <Label Text="ASSIGNMENTS" HorizontalOptions="Start" VerticalOptions="Center"/>
+        <ListView
+            ItemsSource="{Binding Assignments}">
+        </ListView>
+        <Label Text="ROSTER" HorizontalOptions="Start" VerticalOptions="Center"/>
+        <ListView
+            ItemsSource="{Binding Roster}">
+        </ListView>
+
+        <Button Text="Back" Clicked="BackClicked"/>
+    </VerticalStackLayout>
+</ContentPage>

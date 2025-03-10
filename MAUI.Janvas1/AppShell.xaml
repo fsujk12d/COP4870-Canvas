@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MAUI.Janvas1.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MAUI.Janvas1"
+    xmlns:local2="clr-namespace:MAUI.Janvas1.Views"
+    xmlns:local3="clr-namespace:MAUI.Janvas1.Dialogs"
+    Shell.FlyoutBehavior="Disabled"
+    Title="MAUI.Janvas1">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    <ShellContent
+        Title="Instructors"
+        ContentTemplate="{DataTemplate local2:InstructorsView}"
+        Route="Instructors" />
+    <ShellContent
+        Title="Students"
+        ContentTemplate="{DataTemplate local2:StudentsView}"
+        Route="Students" />
+    <ShellContent
+        Title="Courses"
+        ContentTemplate="{DataTemplate local2:ICourseView}"
+        Route="ICourses" />
+    <ShellContent
+        Title="Assignments"
+        ContentTemplate="{DataTemplate local2:IAssignmentView}"
+        Route="IAssignments" />
+    <ShellContent
+        Title="Students"
+        ContentTemplate="{DataTemplate local2:IStudentsView}"
+        Route="IStudents"/>
+    <ShellContent
+        Title="Modules"
+        ContentTemplate="{DataTemplate local2:IModulesView}"
+        Route="IModules"/>
+    <ShellContent
+        Title="Content Items"
+        ContentTemplate="{DataTemplate local2:IContentItemView}"
+        Route="IContentItems"/>
+    <ShellContent
+        Title="Student Submissions"
+        ContentTemplate="{DataTemplate local2:ISubmissionView}"
+        Route="ISubmissions"/>
+    <ShellContent
+        Title="Student HomePage"
+        ContentTemplate="{DataTemplate local2:StudentDetailView}"
+        Route="StudentLogin"/>
+    <ShellContent
+        Title="Course Info"
+        ContentTemplate="{DataTemplate local3:CourseInfoDialog}"
+        Route="ICourseInfo"/>
+    <ShellContent
+        Title="Assignment Details"
+        ContentTemplate="{DataTemplate local3:AssignmentDialog}"
+        Route="IAssignmentDetails" />
+    <ShellContent
+        Title="Student Details"
+        ContentTemplate="{DataTemplate local3:StudentDialog}"
+        Route="IStudentDetails"/>
+    <ShellContent
+        Title="Module Details"
+        ContentTemplate="{DataTemplate local3:ModuleDialog}"
+        Route="IModuleDetails"/>
+    <ShellContent
+        Title="Course Details"
+        ContentTemplate="{DataTemplate local3:CourseDialog}"
+        Route="ICourseDetails"/>
+    <ShellContent
+        Title="ContentItem Details"
+        ContentTemplate="{DataTemplate local3:ContentItemDialog}"
+        Route="IContentItemDetails"/>
+    <ShellContent
+        Title="Module Content"
+        ContentTemplate="{DataTemplate local3:ModuleDetailDialog}"
+        Route="ModContent"/>
+    <ShellContent
+        Title="Course Student Content"
+        ContentTemplate="{DataTemplate local3:CourseSDetailDialog}"
+        Route="CourseSContent"/>
+    <ShellContent
+        Title="Course Assignment Content"
+        ContentTemplate="{DataTemplate local3:CourseADetailDialog}"
+        Route="CourseAContent"/>
+    <ShellContent
+        Title="Course Module Content"
+        ContentTemplate="{DataTemplate local3:CourseMDetailDialog}"
+        Route="CourseMContent"/>
+    <ShellContent
+        Title="Course Overview"
+        ContentTemplate="{DataTemplate local3:SCourseDetails}"
+        Route="SCourse"/>
+    <ShellContent
+        Title="Submit Assignment"
+        ContentTemplate="{DataTemplate local3:StudentSubmitDialog}"
+        Route="SSubmitAssignment"/>
+    <ShellContent
+        Title="Grade Submission"
+        ContentTemplate="{DataTemplate local3:GradeSubmissionDialog}"
+        Route="GradeSubDialog"/>
+
+
+
+</Shell>

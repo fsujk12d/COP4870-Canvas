@@ -1,0 +1,179 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MAUI.Janvas1
+build_property.ProjectDir = C:\Users\javey\source\repos\Janvas1\MAUI.Janvas1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Dialogs/AssignmentDialog.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Dialogs.AssignmentDialog.xaml
+build_metadata.AdditionalFiles.TargetPath = Dialogs\AssignmentDialog.xaml
+build_metadata.AdditionalFiles.RelativePath = Dialogs\AssignmentDialog.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Dialogs/ContentItemDialog.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Dialogs.ContentItemDialog.xaml
+build_metadata.AdditionalFiles.TargetPath = Dialogs\ContentItemDialog.xaml
+build_metadata.AdditionalFiles.RelativePath = Dialogs\ContentItemDialog.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Dialogs/CourseADetailDialog.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Dialogs.CourseADetailDialog.xaml
+build_metadata.AdditionalFiles.TargetPath = Dialogs\CourseADetailDialog.xaml
+build_metadata.AdditionalFiles.RelativePath = Dialogs\CourseADetailDialog.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Dialogs/CourseDialog.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Dialogs.CourseDialog.xaml
+build_metadata.AdditionalFiles.TargetPath = Dialogs\CourseDialog.xaml
+build_metadata.AdditionalFiles.RelativePath = Dialogs\CourseDialog.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Dialogs/CourseInfoDialog.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Dialogs.CourseInfoDialog.xaml
+build_metadata.AdditionalFiles.TargetPath = Dialogs\CourseInfoDialog.xaml
+build_metadata.AdditionalFiles.RelativePath = Dialogs\CourseInfoDialog.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Dialogs/CourseMDetailDialog.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Dialogs.CourseMDetailDialog.xaml
+build_metadata.AdditionalFiles.TargetPath = Dialogs\CourseMDetailDialog.xaml
+build_metadata.AdditionalFiles.RelativePath = Dialogs\CourseMDetailDialog.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Dialogs/CourseSDetailDialog.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Dialogs.CourseSDetailDialog.xaml
+build_metadata.AdditionalFiles.TargetPath = Dialogs\CourseSDetailDialog.xaml
+build_metadata.AdditionalFiles.RelativePath = Dialogs\CourseSDetailDialog.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Dialogs/GradeSubmissionDialog.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Dialogs.GradeSubmissionDialog.xaml
+build_metadata.AdditionalFiles.TargetPath = Dialogs\GradeSubmissionDialog.xaml
+build_metadata.AdditionalFiles.RelativePath = Dialogs\GradeSubmissionDialog.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Dialogs/ModuleDetailDialog.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Dialogs.ModuleDetailDialog.xaml
+build_metadata.AdditionalFiles.TargetPath = Dialogs\ModuleDetailDialog.xaml
+build_metadata.AdditionalFiles.RelativePath = Dialogs\ModuleDetailDialog.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Dialogs/ModuleDialog.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Dialogs.ModuleDialog.xaml
+build_metadata.AdditionalFiles.TargetPath = Dialogs\ModuleDialog.xaml
+build_metadata.AdditionalFiles.RelativePath = Dialogs\ModuleDialog.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Dialogs/SCourseDetails.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Dialogs.SCourseDetails.xaml
+build_metadata.AdditionalFiles.TargetPath = Dialogs\SCourseDetails.xaml
+build_metadata.AdditionalFiles.RelativePath = Dialogs\SCourseDetails.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Dialogs/StudentDialog.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Dialogs.StudentDialog.xaml
+build_metadata.AdditionalFiles.TargetPath = Dialogs\StudentDialog.xaml
+build_metadata.AdditionalFiles.RelativePath = Dialogs\StudentDialog.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Dialogs/StudentSubmitDialog.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Dialogs.StudentSubmitDialog.xaml
+build_metadata.AdditionalFiles.TargetPath = Dialogs\StudentSubmitDialog.xaml
+build_metadata.AdditionalFiles.RelativePath = Dialogs\StudentSubmitDialog.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Views/IAssignmentView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Views.IAssignmentView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\IAssignmentView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\IAssignmentView.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Views/IContentItemView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Views.IContentItemView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\IContentItemView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\IContentItemView.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Views/ICourseView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Views.ICourseView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ICourseView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ICourseView.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Views/IModulesView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Views.IModulesView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\IModulesView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\IModulesView.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Views/InstructorsView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Views.InstructorsView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\InstructorsView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\InstructorsView.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Views/IStudentsView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Views.IStudentsView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\IStudentsView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\IStudentsView.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Views/ISubmissionView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Views.ISubmissionView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ISubmissionView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ISubmissionView.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Views/StudentDetailView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Views.StudentDetailView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\StudentDetailView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\StudentDetailView.xaml
+
+[C:/Users/javey/source/repos/Janvas1/MAUI.Janvas1/Views/StudentsView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI.Janvas1.Views.StudentsView.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\StudentsView.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\StudentsView.xaml

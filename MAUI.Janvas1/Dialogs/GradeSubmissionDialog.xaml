@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUI.Janvas1.Dialogs.GradeSubmissionDialog"
+             Title="GradeSubmissionDialog"
+             NavigatedTo="ContentPage_NavigatedTo"
+             NavigatedFrom="ContentPage_NavigatedFrom">
+    <VerticalStackLayout>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+
+            <Label Text="Student Name" Grid.Column="0" Grid.Row="0"/>
+            <Label Text="{Binding StudentName}" Grid.Column="1" Grid.Row="0"/>
+            <Label Text="Course Name" Grid.Column="0" Grid.Row="1"/>
+            <Label Text="{Binding CourseName}" Grid.Column="1" Grid.Row="1"/>
+            <Label Text="Assignment Name" Grid.Column="0" Grid.Row="2"/>
+            <Label Text="{Binding AssignmentName}" Grid.Column="1" Grid.Row="2"/>
+            <Label Text="Student Submission" Grid.Column="0" Grid.Row="3"/>
+            <Label Text="{Binding SubmissionText}" Grid.Column="1" Grid.Row="3"/>
+            <Label Text="Grade" Grid.Column="0" Grid.Row="4"/>
+            <Entry Text="{Binding Grade}" Grid.Column="1" Grid.Row="4"/>
+            <Label Text="Comments" Grid.Column="0" Grid.Row="5"/>
+            <Entry Text="{Binding Comments}" Grid.Column="1" Grid.Row="5"/>
+        </Grid>
+
+        <Button Text="Grade Assignment" Clicked="GradeClicked"/>
+        <Button Text="Cancel" Clicked="CancelClicked"/>
+    </VerticalStackLayout>
+</ContentPage>

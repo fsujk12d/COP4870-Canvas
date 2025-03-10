@@ -1,0 +1,11 @@
+C:\Users\javey\source\repos\Janvas1\Library.Janvas1\bin\Debug\net8.0\Library.Janvas1.deps.json
+C:\Users\javey\source\repos\Janvas1\Library.Janvas1\bin\Debug\net8.0\Library.Janvas1.dll
+C:\Users\javey\source\repos\Janvas1\Library.Janvas1\bin\Debug\net8.0\Library.Janvas1.pdb
+C:\Users\javey\source\repos\Janvas1\Library.Janvas1\obj\Debug\net8.0\Library.Janvas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javey\source\repos\Janvas1\Library.Janvas1\obj\Debug\net8.0\Library.Janvas1.AssemblyInfoInputs.cache
+C:\Users\javey\source\repos\Janvas1\Library.Janvas1\obj\Debug\net8.0\Library.Janvas1.AssemblyInfo.cs
+C:\Users\javey\source\repos\Janvas1\Library.Janvas1\obj\Debug\net8.0\Library.Janvas1.csproj.CoreCompileInputs.cache
+C:\Users\javey\source\repos\Janvas1\Library.Janvas1\obj\Debug\net8.0\Library.Janvas1.dll
+C:\Users\javey\source\repos\Janvas1\Library.Janvas1\obj\Debug\net8.0\refint\Library.Janvas1.dll
+C:\Users\javey\source\repos\Janvas1\Library.Janvas1\obj\Debug\net8.0\Library.Janvas1.pdb
+C:\Users\javey\source\repos\Janvas1\Library.Janvas1\obj\Debug\net8.0\ref\Library.Janvas1.dll

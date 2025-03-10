@@ -1,2 +1,4 @@
 # COP4870-Canvas
 A Semester project for CAP4870 Full Stack Development in C#
+
+This project was a solo project for the COP4870 class in the Spring 24 term at Florida State University. This project began as a bommand-line interface, where users could create Students, Classes, Assignments, and Modules, and perform CRUD operations on lists thereof. It then was given a UI with MAUI. While I never got around to data server-side data persistence, the current version of the software allows instructors to add grades to submissions that Students can make for a given assignment. Still some work to do to polish it up.
